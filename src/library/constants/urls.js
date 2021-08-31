@@ -1,0 +1,1 @@
+export const filmsUrl = "https://ghibliapi.herokuapp.com/films"
